@@ -1,4 +1,4 @@
-revisão de Preços de Casas em Boston (Regressão)
+Previsão de Preços de Casas em Boston (Regressão)
 Este projeto utiliza técnicas de Machine Learning para prever o valor de imóveis em Boston com base em diversas características socioeconómicas e estruturais. O objetivo principal foi demonstrar a criação de um fluxo de trabalho (pipeline) robusto e automatizado.
 
 📋 Descrição do Projeto
